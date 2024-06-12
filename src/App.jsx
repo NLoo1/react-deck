@@ -1,9 +1,9 @@
-import './App.css'
 import Deck from './Deck'
+import './App.css'
 
 function App() {
   return(
-    <div>
+    <div className='app'>
       <Deck />
     </div>
   )
